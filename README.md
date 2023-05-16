@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... some think not that boring
-- 👯 I’m looking to collaborate on ... a opensource program from zero to hero
-- 🤔 I’m looking for help with ... make some friends
+- 🔭 I’m currently working on ... some thing not that boring
+- 👯 I’m looking to collaborate on ... an opensource program from zero to hero
+- 🤔 I’m looking for help with ... making some friends
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=APX103&include_all_commits=true&count_private-true&custom_title=APX103'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
