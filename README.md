@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-192133?style=flat-square&logo=go&logoColor=white)
 ![CPP](https://img.shields.io/badge/-CPP-192133?style=flat-square&logo=cplusplus&logoColor=white)
+![Ray](https://img.shields.io/badge/-Ray-192133?style=flat-square&logo=ray&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-192133?style=flat-square&logo=pytorch&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-192133?style=flat-square&logo=pytest&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-192133?style=flat-square&logo=mongodb&logoColor=white)
