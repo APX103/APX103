@@ -18,7 +18,3 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-192133?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
 ​
-### Program
-[custom_exporter](https://github.com/APX103/custom_exporter)
-
-[PoseHID](https://github.com/APX103/PoseHID)
